@@ -1,6 +1,7 @@
 import React from "react";
 import styled from "styled-components";
-import Uploader from "./../components/Uploader";
+// import Uploader from "../components/uploader-picture-wall";
+import Uploader from "../components/uploader-drager";
 
 const Container = styled.div`
   width: 80%;
