@@ -1,7 +1,8 @@
 import React from "react";
-import UploadContainer from "./containers/UploadContainer";
 import "antd/dist/antd.css";
 import "./App.css";
+// import Uploader from "./components/uploader-drager";
+import UploadContainer from "./containers/UploadContainer";
 
 const App = () => {
   return (
